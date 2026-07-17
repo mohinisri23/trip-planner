@@ -206,12 +206,8 @@ Approximately **8 hours**.
 
 A short screen recording demonstrating the application has been included with the project submission.
 
-*(If hosting the video online, replace this section with the demo link.)*
-
-Example:
-
 ```
-https://your-demo-link.com
+https://www.loom.com/share/ec95ce169ce642e09b7161cae5fd29f9
 
 ```
 # Live Deployed Link 
