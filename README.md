@@ -2,7 +2,7 @@
 
 An AI-powered Trip Planner that generates personalized day-by-day travel itineraries from a free-form user prompt. The application uses Google's Gemini AI to generate structured JSON, which is parsed and rendered into an interactive and responsive React interface.
 
-This project was built as part of a Frontend Internship Assignment to demonstrate AI integration, structured data handling, responsive UI development, and robust error handling.
+This project was built to demonstrate AI integration, structured data handling, responsive UI development, and robust error handling.
 
 ---
 
@@ -130,7 +130,7 @@ http://localhost:5173
 
 1. Start both the backend and frontend servers.
 2. Enter a travel prompt in the text box (for example: "Plan a 5-day trip to Japan with a moderate budget.").
-3. Click **Generate Trip**.
+3. Click **Generate Itinerary**.
 4. Wait for the AI to generate the itinerary.
 5. View the generated trip summary and day-by-day itinerary.
 
