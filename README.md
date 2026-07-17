@@ -74,7 +74,7 @@ trip-planner/
 ## 1. Clone the repository
 
 ```bash
-git clone <https://github.com/mohinisri23/trip-planner>
+git clone <your-github-repository-url>
 cd trip-planner
 ```
 
@@ -130,7 +130,7 @@ http://localhost:5173
 
 1. Start both the backend and frontend servers.
 2. Enter a travel prompt in the text box (for example: "Plan a 5-day trip to Japan with a moderate budget.").
-3. Click **Generate Itinerary**.
+3. Click **Generate Trip**.
 4. Wait for the AI to generate the itinerary.
 5. View the generated trip summary and day-by-day itinerary.
 
@@ -214,9 +214,11 @@ Example:
 https://your-demo-link.com
 
 ```
-
 # Live Deployed Link 
- Link: 
+
+Backend Link: https://trip-planner-cnig.onrender.com/
+Frontend Link: https://trip-planner-iota-swart.vercel.app/
+
 
 ---
 
@@ -228,4 +230,4 @@ https://your-demo-link.com
 
 # 📄 License
 
-This project was created solely for educational and internship assessment purposes.
+This project was created solely for educational purpose only.
