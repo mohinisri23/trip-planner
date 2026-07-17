@@ -222,7 +222,7 @@ https://your-demo-link.com
 
 # 👨‍💻 Author
 
-**Mohini**
+**Mohini Srivastava**
 
 ---
 
